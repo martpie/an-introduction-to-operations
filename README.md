@@ -25,3 +25,4 @@ It may be used by developers as a first step into the DevOps world as well.
 3. IPTables / UFW
 4. Web server
 5. SSL Certificates
+6. Deployment of a static website
