@@ -1,6 +1,14 @@
-# devops-intro
+# An introduction to Operations
 
 A brief and practical introduction to Ops.
+
+## Goals
+
+The goal of this workshop is not to make you an operations expert or a super-badass sysadmin.
+
+It is about giving you different tools and knowledge about the operations world so it becomes easier for you to talk with ops people.
+
+It may be used by developers as a first step into the DevOps world as well.
 
 ## Prerequists
 
