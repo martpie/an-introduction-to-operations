@@ -1,6 +1,6 @@
 # devops-intro
 
-A brief and practical introduction to DevOps
+A brief and practical introduction to Ops.
 
 ## Prerequists
 
@@ -8,7 +8,7 @@ A brief and practical introduction to DevOps
 - a domain name
 - a terminal
 
-<small>(we'll use here a droplet from Digital Ocean, some commands below may vary depending on your VPS provider)</small>
+<small>\* (we'll use here a droplet from Digital Ocean, some commands below may vary depending on your VPS provider/operating system)</small>
 
 ## Table of Contents (WIP)
 
