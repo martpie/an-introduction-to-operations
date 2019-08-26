@@ -13,7 +13,7 @@ It may be used by developers as a first step into the DevOps world as well.
 ## Prerequists
 
 - a VPS (virtual private server) running Ubuntu\*
-- a domain name
+- a domain name (with a A record pointing to the IP of your server)
 - a terminal
 
 <small>\* (we'll use here a droplet from Digital Ocean, some commands below may vary depending on your VPS provider/operating system)</small>
