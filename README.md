@@ -24,5 +24,5 @@ It may be used by developers as a first step into the DevOps world as well.
 2. [SSH Configuration](2.ssh_configuration.md)
 3. [UFW Configuration](3.ufw_configuration.md)
 4. [Web server](4.web_server.md)
-5. [SSL Certificates](5.ssl_certificates)
+5. [SSL Certificates](5.ssl_certificates.md)
 6. [Deployment of a static website](6.deployment.md)
