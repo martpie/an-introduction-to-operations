@@ -26,4 +26,4 @@ It may be used by developers as a first step into the DevOps world as well.
 4. [Web server](4.web_server.md)
 5. [SSL Certificates](5.ssl_certificates.md)
 6. [Deployment of a static website](6.deployment.md)
-7. [Deployment of a static website](7.bonus.md)
+7. [Bonus](7.bonus.md)
